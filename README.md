@@ -27,9 +27,9 @@ I'm an aspiring AI engineer passionate about building cool tech projects and sol
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebreaker64&show_icons=true&theme=radical" alt="Foong's GitHub Stats" width="49.5"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codebreaker64&show_icons=true&theme=radical" alt="Foong's GitHub Stats" width="46.5%"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebreaker64&layout=compact&theme=radical" alt="Top Languages" width="49.5"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebreaker64&layout=compact&theme=radical" alt="Top Languages" width="35.5%"/>
 </p>
 
 ---
