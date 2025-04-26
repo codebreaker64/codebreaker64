@@ -31,5 +31,7 @@ I'm an aspiring AI engineer passionate about building cool tech projects and sol
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebreaker64&layout=compact&theme=radical" alt="Top Languages" height="200"/>
 </p>
+
 ---
+
 ![Snake animation](https://github.com/codebreaker64/codebreaker64/blob/output/github-contribution-grid-snake.svg)
