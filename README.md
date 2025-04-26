@@ -26,11 +26,11 @@ I'm an aspiring AI engineer passionate about building cool tech projects and sol
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codebreaker64&show_icons=true&theme=radical" alt="Foong's GitHub Stats" height="200"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebreaker64&layout=compact&theme=radical" alt="Top Languages" height="200"/>
-</p>
+</div>
 
 ---
 
