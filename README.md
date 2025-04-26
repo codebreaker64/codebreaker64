@@ -34,4 +34,4 @@ I'm an aspiring AI engineer passionate about building cool tech projects and sol
 
 ---
 
-![Snake animation](https://github.com/codebreaker64/codebreaker64/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/codebreaker64/FongKaiJie/blob/output/github-contribution-grid-snake.svg)
