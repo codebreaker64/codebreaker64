@@ -5,7 +5,7 @@
 I build agentic AI systems that have to work outside a demo: on a 4 GB GPU, on a phone with no network, or behind a human approval gate.
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fong-kai-jie)
-[![Portfolio (work in progress)](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/codebreaker64/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/codebreaker64/Portfolio) (work in progress)
  
 ## What I work on
  
