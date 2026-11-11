@@ -1,6 +1,6 @@
 # Hi, I'm Kai Jie 👋
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&width=640&lines=AI+Engineer+%C2%B7+Full-Stack+%C2%B7+Forward+Deployed+Builder;Agentic+systems+with+human-in-the-loop+gates;On-device+and+local+model+inference;RAG%2C+MCP+servers+and+evals)](https://github.com/codebreaker64)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&width=640&lines=AI+Engineer+%C2%B7+Forward+Deployed+Builder;Agentic+systems+with+human-in-the-loop+gates;On-device+and+local+model+inference;RAG%2C+MCP+servers+and+evals)](https://github.com/codebreaker64)
  
 I build agentic AI systems that have to work outside a demo: on a 4 GB GPU, on a phone with no network, or behind a human approval gate.
  
